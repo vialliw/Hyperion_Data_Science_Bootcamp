@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92.75" height="28" role="img" aria-label="Perl">
+  <title>Perl</title>
+  <g shape-rendering="crispEdges">
+    <rect width="92.75" height="28" fill="#ddf4ff"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <text transform="scale(.1)" x="463.75" y="175" textLength="687.5" fill="#333" font-weight="bold">
+      <tspan dx="0">P</tspan>
+      <tspan dx="-160">e</tspan>
+      <tspan dx="-160">r</tspan>
+      <tspan dx="-160">l</tspan>
+    </text>
+  </g>
+</svg>
