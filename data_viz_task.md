@@ -28,8 +28,7 @@ plt.show()
 
 
     
-![png](output_1_1.png)
-    
+![output_1_1](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/image/output_1_1.png?raw=true)    
 
 
 ### The boxplot indicates that Toyota achieves the highest revolutions per mile. 
@@ -62,9 +61,8 @@ plt.show()
 
 
 
-    
-![png](output_4_1.png)
-    
+
+![output_4_1](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/image/output_4_1.png?raw=true)    
 
 
 ### The histograms indicate that MPG Highway (blue) typically demonstrates greater fuel efficiency compared to MPG City (orange).
@@ -88,8 +86,7 @@ plt.show()
 
 
     
-![png](output_7_0.png)
-    
+![output_7_0](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/image/output_7_0.png?raw=true)    
 
 
 ### The line plot illustrates that the turning circle is directly related to the wheelbase. 
@@ -124,9 +121,9 @@ plt.show()
 ```
 
 
-    
-![png](output_10_0.png)
-    
+
+![output_10_0](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/image/output_10_0.png?raw=true)
+
 
 
 ### The bar chart shows large car type has the highest average horsepower (179.45).
