@@ -8,6 +8,7 @@ Some guides are pretty straightforward, but you only use them once for setup, so
 
 1. [Data Visualization (Basic)](Data_Visualization%20(Basic).md)
 2. [Jupyter Setup Guide](jupyter-setup-guide.md)
+3. [Github GIT Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Contributing
 
