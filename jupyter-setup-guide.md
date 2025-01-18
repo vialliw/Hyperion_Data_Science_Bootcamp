@@ -91,3 +91,26 @@ If you can't create a virtual environment:
 ```bash
 pip freeze > requirements.txt
 ```
+
+## Appendix: Command Syntax
+
+Jupyter commands can be written in two equivalent ways:
+
+1. Space-separated syntax (canonical form):
+```bash
+jupyter notebook   # Start Jupyter Notebook
+jupyter lab       # Start JupyterLab
+jupyter console   # Start Jupyter Console
+```
+
+2. Hyphenated syntax (alternative form):
+```bash
+jupyter-notebook  # Same as jupyter notebook
+jupyter-lab      # Same as jupyter lab
+jupyter-console  # Same as jupyter console
+```
+
+Both forms are functionally identical:
+- The space-separated version is the official syntax and most commonly used in documentation
+- The hyphenated version exists for compatibility and convenience, especially in scripts where spaces might cause issues
+- You can use either syntax based on your preference - they both execute the same command
