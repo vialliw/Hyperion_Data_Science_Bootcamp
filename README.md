@@ -9,6 +9,18 @@ Some guides are pretty straightforward, but you only use them once for setup, so
 1. [Data Visualization (Basic)](Data_Visualization%20(Basic).md)
 2. [Jupyter Setup Guide](jupyter-setup-guide.md)
 3. [Github GIT Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+4. [Python Cheat Sheet](https://cdn.codewithmosh.com/image/upload/v1702942822/cheat-sheets/python.pdf)
+5. [Numpy Cheat Sheet](https://assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+6. [Pandas Cheat Sheet for Data Science](https://datascientyst.com/pandas-cheat-sheet-for-data-science)
+7. [Pandas Cheat Sheet: Data Wrangling](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+8. [Pandas Cheat Sheet: Data Cleaning](https://datascientyst.com/pandas-cheat-sheet-data-cleaning)
+9. [Pandas Cheat Sheet: Visualization](https://datascientyst.com/pandas-visualization-cheat-sheet)
+10. [Pandas Cheat Sheet: Datetime](https://datascientyst.com/pandas-datetime-cheat-sheet/)
+11. [Pandas vs SQL Cheat Sheet](https://datascientyst.com/pandas-vs-sql-cheat-sheet/)
+12. [Pandas vs R Cheat Sheet](https://datascientyst.com/pandas-vs-r-cheat-sheet/)
+13. [Matplotlib Cheat Sheet](https://matplotlib.org/cheatsheets/cheatsheets.pdf)
+14. [Seaborn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
+15. [The Complete Collection of Data Science Cheat Sheets](https://www.kdnuggets.com/publications/sheets/The_Complete_Collection_of_Data_Science_Cheatsheets_KDnuggets.pdf)
 
 ## Contributing
 
