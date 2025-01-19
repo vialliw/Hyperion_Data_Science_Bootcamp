@@ -21,6 +21,7 @@ Some guides are pretty straightforward, but you only use them once for setup, so
 13. [Matplotlib Cheat Sheet](https://matplotlib.org/cheatsheets/cheatsheets.pdf)
 14. [Seaborn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
 15. [The Complete Collection of Data Science Cheat Sheets](https://www.kdnuggets.com/publications/sheets/The_Complete_Collection_of_Data_Science_Cheatsheets_KDnuggets.pdf)
+16. [A Newbie's Guide to Contributing Like a Pro](https://github.com/vialliw/Tech_Notes/blob/main/A%20Newbie's%20Guide%20to%20Contributing%20Like%20a%20Pro.md)
 
 ## Contributing
 
