@@ -1,4 +1,4 @@
-# Learning Resources and Setup Guides
+# Tutorial Records/ Setup Guides/ Cheat Sheets/ Documentation
 
 Some guides come from a lot of trial and error, while others are quite straightforward and only needed for initial setup, making them easy to forget. 
 
