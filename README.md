@@ -18,10 +18,12 @@ Some guides are pretty straightforward, but you only use them once for setup, so
 10. [Pandas Cheat Sheet: Datetime](https://datascientyst.com/pandas-datetime-cheat-sheet/)
 11. [Pandas vs SQL Cheat Sheet](https://datascientyst.com/pandas-vs-sql-cheat-sheet/)
 12. [Pandas vs R Cheat Sheet](https://datascientyst.com/pandas-vs-r-cheat-sheet/)
-13. [Matplotlib Cheat Sheet](https://matplotlib.org/cheatsheets/cheatsheets.pdf)
-14. [Seaborn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
-15. [The Complete Collection of Data Science Cheat Sheets](https://www.kdnuggets.com/publications/sheets/The_Complete_Collection_of_Data_Science_Cheatsheets_KDnuggets.pdf)
-16. [A Newbie's Guide to Contributing Github Like a Pro](https://github.com/vialliw/Tech_Notes/blob/main/A%20Newbie's%20Guide%20to%20Contributing%20Like%20a%20Pro.md)
+13. [Pandas Documentation](https://pandas.pydata.org/docs/)
+14. [Matplotlib Cheat Sheet](https://matplotlib.org/cheatsheets/cheatsheets.pdf)
+15. [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
+16. [Seaborn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
+17. [The Complete Collection of Data Science Cheat Sheets](https://www.kdnuggets.com/publications/sheets/The_Complete_Collection_of_Data_Science_Cheatsheets_KDnuggets.pdf)
+18. [A Newbie's Guide to Contributing Github Like a Pro](https://github.com/vialliw/Tech_Notes/blob/main/A%20Newbie's%20Guide%20to%20Contributing%20Like%20a%20Pro.md)
 
 ## Contributing
 
