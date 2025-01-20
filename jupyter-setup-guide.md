@@ -40,7 +40,46 @@ With your virtual environment activated:
 pip install notebook
 ```
 
-## 4. Start Jupyter Notebook
+## 4. Install Required Packages
+
+Before starting your project, install any additional Python packages you'll need:
+
+```bash
+# Install common data science packages
+pip install numpy pandas matplotlib seaborn
+
+# Install specific version of a package
+pip install tensorflow==2.8.0
+
+# Install multiple packages using requirements.txt
+pip install -r requirements.txt
+```
+
+### Creating requirements.txt
+
+There are two ways to create a requirements.txt file:
+
+1. Manually create and edit:
+```bash
+# Create empty requirements.txt
+echo numpy==1.21.0 > requirements.txt
+echo pandas==1.3.0 >> requirements.txt
+```
+
+2. Automatically from your environment:
+```bash
+# Export all installed packages
+pip freeze > requirements.txt
+```
+
+### Best Practices for Package Management
+
+1. Install packages only after activating your virtual environment
+2. Document package versions in requirements.txt
+3. Update packages carefully to avoid compatibility issues
+4. Consider using separate requirements files for development and production
+
+## 5. Start Jupyter Notebook
 
 ```bash
 # Launch Jupyter Notebook
@@ -82,15 +121,19 @@ If you can't create a virtual environment:
 1. Verify Python is in PATH: `python --version`
 2. Try running Command Prompt as administrator
 
+If packages fail to install:
+1. Check your internet connection
+2. Verify pip is updated: `python -m pip install --upgrade pip`
+3. Look for package conflicts in requirements.txt
+4. Try installing packages one by one to identify issues
+
 ## Best Practices
 
 1. Always use virtual environments for different projects
 2. Keep your Python and Jupyter Notebook updated
 3. Name your virtual environments meaningfully for different projects
-4. Save requirements.txt for your projects:
-```bash
-pip freeze > requirements.txt
-```
+4. Regularly update your requirements.txt as you add new packages
+5. Test your environment with a new requirements.txt installation before deployment
 
 ## Appendix: Command Syntax
 
