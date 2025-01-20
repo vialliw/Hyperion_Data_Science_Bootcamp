@@ -1,6 +1,8 @@
 # Learning Resources and Setup Guides
 
-Some guides are pretty straightforward, but you only use them once for setup, so it's easy to forget them. I really don't want to keep searching and going through trial and error over and over. If they're organized well, it'll help me out a lot, and others too.
+Some guides come from a lot of trial and error, while others are quite straightforward and only needed for initial setup, making them easy to forget. 
+
+To save time and prevent the need to search repeatedly, I prefer to keep them well organized; it really helps me and others as well.
 
 ![data_analysis_night](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/image/data_analysis_night.jpg?raw=true)
 
