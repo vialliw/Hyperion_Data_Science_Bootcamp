@@ -46,7 +46,7 @@ Before starting your project, install any additional Python packages you'll need
 
 ```bash
 # Install common data science packages
-pip install numpy pandas matplotlib seaborn
+pip install numpy pandas matplotlib seaborn scikit-learn fuzzywuzzy chardet python-Levenshtein
 
 # Install specific version of a package
 pip install tensorflow==2.8.0
