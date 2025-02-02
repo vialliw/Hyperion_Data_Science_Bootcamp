@@ -10,7 +10,7 @@ To save time and prevent the need to search repeatedly, I prefer to keep them we
 
 1. [[Tutorial] Data Visualization (Basic)](Data_Visualization%20(Basic).md)
 2. [[Tutorial] Data Cleaning Tutorial](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/Data%20Cleaning%20Tutorial.ipynb)
-3. [[Guide]Jupyter Notebook Setup Guide](jupyter-setup-guide.md)
+3. [[Guide] Jupyter Notebook Setup Guide](jupyter-setup-guide.md)
 4. [[Tutorial] Data Cleaning Guide: Working with Free Text Data](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/data-cleaning-markdown.md)
 5. [[Concept] Feature Scaling](https://www.youtube.com/watch?v=Y7m9MyPxcyQ)
 6. [[Concept] When to Normalize or Standardize Data](https://www.secoda.co/learn/when-to-normalize-or-standardize-data)
