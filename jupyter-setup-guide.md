@@ -1,8 +1,8 @@
 # Setting Up Jupyter Notebook in Windows
 
-![Jupyter Notebook Setup Guide](https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/jupyter.jpg?raw=true)
-
 This guide walks through the process of setting up and running Jupyter Notebook in Windows, including virtual environment setup.
+
+![Jupyter Notebook Setup Guide](https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/jupyter.jpg?raw=true)
 
 ## Prerequisites
 
