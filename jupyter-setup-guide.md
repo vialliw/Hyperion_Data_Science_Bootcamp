@@ -1,4 +1,4 @@
-# Setting Up Jupyter Notebook in Windows
+# Best Practices in Setting Up Jupyter Notebook in Windows
 
 This guide walks through the process of setting up and running Jupyter Notebook in Windows, including virtual environment setup.
 
