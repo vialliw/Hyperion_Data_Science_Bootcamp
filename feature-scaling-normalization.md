@@ -1,6 +1,6 @@
 ## Master Feature Scaling (Normalization) in Machine Learning
 
-![Master Feature Scaling (Normalization) in Machine Learning](https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/normalization.png)
+![Figure 1](https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/feature-scaling-normalization1.png)
 
 In the world of machine learning, data is king. But raw data often comes in different scales and ranges, which can significantly impact the performance of our models.  That's where feature scaling, specifically normalization, comes in. This blog post will delve into the importance of feature scaling, best practices, and a step-by-step guide using a Pandas-provided dataset, showcasing the original and scaled data side-by-side with visualizations.
 
