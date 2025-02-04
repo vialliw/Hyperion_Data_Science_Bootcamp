@@ -160,6 +160,43 @@ if p_value < 0.05:
         print("- The association is very strong")
 ```
 
+Console results:
+
+```Results
+Contingency Table:
+survived    0    1
+class
+First      80  136
+Second     97   87
+Third     372  119
+
+
+Chi-square test results:
+Chi-square statistic: 102.8890
+p-value: 0.0000
+Degrees of freedom: 2
+
+Expected Frequencies:
+survived       0       1
+class
+First     133.09   82.91
+Second    113.37   70.63
+Third     302.54  188.46
+
+Cramer's V: 0.3398
+Example Analysis Results:
+
+Chi-square statistic: 102.89
+p-value: 0.0000
+Degrees of freedom: 2
+
+Interpretation:
+- We reject the null hypothesis
+- There is a significant relationship between passenger class and survival
+- The association strength (Cramer's V) is 0.3398
+- The association is moderate
+```
+
 ### 5. Reporting Results
 When reporting chi-square test results, include:
 
