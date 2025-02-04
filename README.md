@@ -16,12 +16,12 @@ Welcome to my Data Science Bootcamp Portfolio. This repository is a comprehensiv
    1. [[Guide] Jupyter Notebook Setup Guide and Best Practices](jupyter-setup-guide.md)
    2. [[Guide] A Newbie's Guide to Contributing Github Like a Pro](https://github.com/vialliw/Tech_Notes/blob/main/A%20Newbie's%20Guide%20to%20Contributing%20Like%20a%20Pro.md)
 3. Knowledge and Concepts
-   1. [[Concept] Feature Scaling](https://www.youtube.com/watch?v=Y7m9MyPxcyQ)
-   2. [[Concept] When to Normalize or Standardize Data](https://www.secoda.co/learn/when-to-normalize-or-standardize-data)
-   3. [[Concept] Normalization Vs. Standardization (Feature Scaling in Machine Learning)](https://www.youtube.com/watch?v=bqhQ2LWBheQ)
-   4. [[Concept] Mean, Median, Mode](https://www.youtube.com/watch?v=5C9LBF3b65s)
-   5. [[Further Reading] Is There Any Difference Between Scikit-Learn and Sklearn?](https://towardsdatascience.com/scikit-learn-vs-sklearn-6944b9dc1736#:)
-   6. [[Further Reading] The Complete Collection of Data Science Cheat Sheets](https://www.kdnuggets.com/publications/sheets/The_Complete_Collection_of_Data_Science_Cheatsheets_KDnuggets.pdf)
+   1. [Feature Scaling](https://www.youtube.com/watch?v=Y7m9MyPxcyQ)
+   2. [When to Normalize or Standardize Data](https://www.secoda.co/learn/when-to-normalize-or-standardize-data)
+   3. [Normalization Vs. Standardization (Feature Scaling in Machine Learning)](https://www.youtube.com/watch?v=bqhQ2LWBheQ)
+   4. [Essential Statistics: Mean, Median, Mode](https://www.youtube.com/watch?v=5C9LBF3b65s)
+   5. [Is There Any Difference Between Scikit-Learn and Sklearn?](https://towardsdatascience.com/scikit-learn-vs-sklearn-6944b9dc1736#:)
+   6. [The Complete Collection of Data Science Cheat Sheets](https://www.kdnuggets.com/publications/sheets/The_Complete_Collection_of_Data_Science_Cheatsheets_KDnuggets.pdf)
 4. Cheat Sheets
    1. [[Cheat Sheet] Github GIT Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
    2. [[Cheat Sheet] Python Cheat Sheet](https://cdn.codewithmosh.com/image/upload/v1702942822/cheat-sheets/python.pdf)
