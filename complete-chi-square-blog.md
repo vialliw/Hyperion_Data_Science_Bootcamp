@@ -1,4 +1,4 @@
-# Master the Chi-Square Test: A Comprehensive Guide
+# Master Chi-Square Test: A Comprehensive Guide
 
 ## Introduction
 The chi-square test is one of the most fundamental and widely used statistical methods in data analysis. It helps us understand relationships between categorical variables and test whether observed data fits our expected patterns. Whether you're analyzing survey responses, medical trial outcomes, or market research data, mastering the chi-square test is essential for any data scientist or researcher.
