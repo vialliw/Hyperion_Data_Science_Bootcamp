@@ -1,5 +1,7 @@
 ## Master Feature Scaling (Normalization) in Machine Learning
 
+![Master Feature Scaling (Normalization) in Machine Learning](https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/normalization.png)
+
 In the world of machine learning, data is king. But raw data often comes in different scales and ranges, which can significantly impact the performance of our models.  That's where feature scaling, specifically normalization, comes in. This blog post will delve into the importance of feature scaling, best practices, and a step-by-step guide using a Pandas-provided dataset, showcasing the original and scaled data side-by-side with visualizations.
 
 ### Introduction: Why Scale Features?
@@ -95,6 +97,28 @@ plt.show()
 ```
 
 ### Interpreting the Results
+
+![Figure 1](https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/feature-scaling-normalization1.png)
+
+![Figure 2](https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/feature-scaling-normalization2.png)
+
+```bash
+Original Data:
+   cylinders  displacement  horsepower  weight  acceleration  model_year origin                       name
+0          8         307.0       130.0    3504          12.0          70    usa  chevrolet chevelle malibu
+1          8         350.0       165.0    3693          11.5          70    usa          buick skylark 320
+2          8         318.0       150.0    3436          11.0          70    usa         plymouth satellite
+3          8         304.0       150.0    3433          12.0          70    usa              amc rebel sst
+4          8         302.0       140.0    3449          10.5          70    usa                ford torino
+
+Scaled Data:
+   cylinders  displacement  horsepower    weight  acceleration  model_year origin                       name
+0        1.0      0.617571    0.456522  0.536150      0.238095         0.0    usa  chevrolet chevelle malibu
+1        1.0      0.728682    0.646739  0.589736      0.208333         0.0    usa          buick skylark 320
+2        1.0      0.645995    0.565217  0.516870      0.178571         0.0    usa         plymouth satellite
+3        1.0      0.609819    0.565217  0.516019      0.238095         0.0    usa              amc rebel sst
+4        1.0      0.604651    0.510870  0.520556      0.148810         0.0    usa                ford torino
+```
 
 The code now loads the mpg dataset, handles potential missing values, scales the numerical features, and then displays the first few rows of both the original and scaled data.  Crucially, it also includes visualizations.  The histograms show how the distribution of a feature (e.g., 'horsepower') changes after scaling.  The box plots provide a visual comparison of the scales of multiple features before and after normalization.  You'll observe that the scaled features now have values between 0 and 1, allowing algorithms to treat them more equitably.  The non-numerical columns (like origin, model_year, car_name) remain unchanged.
 
