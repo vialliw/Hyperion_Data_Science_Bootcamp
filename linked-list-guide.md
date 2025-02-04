@@ -256,3 +256,211 @@ print(ll.display())  # Output: 1.5 -> 1
 ```
 
 This comprehensive guide covers the essential aspects of implementing and working with linked lists in Python. By following these patterns and best practices, you can build robust and efficient linked list implementations for your specific use cases.
+
+Complete script:
+
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+class LinkedList:
+    def __init__(self):
+        self.head = None
+        self.size = 0
+    
+    def is_empty(self):
+        """Check if the list is empty"""
+        return self.head is None
+    
+    def get_size(self):
+        """Return the number of nodes in the list"""
+        return self.size
+
+    def insert_at_beginning(self, data):
+        """Insert a new node at the beginning of the list"""
+        new_node = Node(data)
+        new_node.next = self.head
+        self.head = new_node
+        self.size += 1
+
+    def insert_at_end(self, data):
+        """Insert a new node at the end of the list"""
+        new_node = Node(data)
+        if self.head is None:
+            self.head = new_node
+            self.size += 1
+            return
+        
+        current = self.head
+        while current.next:
+            current = current.next
+        current.next = new_node
+        self.size += 1
+
+    def insert_at_position(self, data, position):
+        """Insert a new node at the specified position"""
+        if position < 0 or position > self.size:
+            raise ValueError("Invalid position")
+        
+        if position == 0:
+            self.insert_at_beginning(data)
+            return
+        
+        new_node = Node(data)
+        current = self.head
+        for _ in range(position - 1):
+            current = current.next
+        
+        new_node.next = current.next
+        current.next = new_node
+        self.size += 1
+
+    def delete_from_beginning(self):
+        """Delete the first node from the list"""
+        if self.is_empty():
+            raise ValueError("List is empty")
+        
+        self.head = self.head.next
+        self.size -= 1
+
+    def delete_from_end(self):
+        """Delete the last node from the list"""
+        if self.is_empty():
+            raise ValueError("List is empty")
+        
+        if self.head.next is None:
+            self.head = None
+            self.size -= 1
+            return
+        
+        current = self.head
+        while current.next.next:
+            current = current.next
+        current.next = None
+        self.size -= 1
+
+    def delete_at_position(self, position):
+        """Delete a node at the specified position"""
+        if position < 0 or position >= self.size:
+            raise ValueError("Invalid position")
+        
+        if position == 0:
+            self.delete_from_beginning()
+            return
+        
+        current = self.head
+        for _ in range(position - 1):
+            current = current.next
+        
+        current.next = current.next.next
+        self.size -= 1
+
+    def search(self, data):
+        """Search for a value and return its position (0-based) or -1 if not found"""
+        current = self.head
+        position = 0
+        while current:
+            if current.data == data:
+                return position
+            current = current.next
+            position += 1
+        return -1
+
+    def display(self):
+        """Return a string representation of the list"""
+        elements = []
+        current = self.head
+        while current:
+            elements.append(str(current.data))
+            current = current.next
+        return " -> ".join(elements)
+
+    def reverse(self):
+        """Reverse the linked list in-place"""
+        previous = None
+        current = self.head
+        
+        while current:
+            next_node = current.next
+            current.next = previous
+            previous = current
+            current = next_node
+        
+        self.head = previous
+
+def main():
+    # Example usage and testing of the LinkedList class
+    ll = LinkedList()
+    
+    # Test insertions
+    print("\nTesting insertions:")
+    ll.insert_at_end(1)
+    ll.insert_at_end(2)
+    ll.insert_at_beginning(0)
+    ll.insert_at_position(1.5, 2)
+    print("After insertions:", ll.display())
+    
+    # Test search
+    print("\nTesting search:")
+    position = ll.search(1.5)
+    print(f"Element 1.5 found at position: {position}")
+    position = ll.search(5)
+    print(f"Element 5 found at position: {position}")
+    
+    # Test reverse
+    print("\nTesting reverse:")
+    ll.reverse()
+    print("After reverse:", ll.display())
+    
+    # Test deletions
+    print("\nTesting deletions:")
+    ll.delete_from_beginning()
+    print("After delete from beginning:", ll.display())
+    ll.delete_from_end()
+    print("After delete from end:", ll.display())
+    ll.delete_at_position(0)
+    print("After delete at position 0:", ll.display())
+    
+    # Test size and empty
+    print("\nTesting size and empty:")
+    print("Current size:", ll.get_size())
+    print("Is empty?", ll.is_empty())
+    
+    # Test error handling
+    print("\nTesting error handling:")
+    try:
+        ll.delete_at_position(5)
+    except ValueError as e:
+        print("Error caught successfully:", str(e))
+
+if __name__ == "__main__":
+    main()
+```
+
+Console results:
+
+```bash
+Testing insertions:
+After insertions: 0 -> 1 -> 1.5 -> 2
+
+Testing search:
+Element 1.5 found at position: 2
+Element 5 found at position: -1
+
+Testing reverse:
+After reverse: 2 -> 1.5 -> 1 -> 0
+
+Testing deletions:
+After delete from beginning: 1.5 -> 1 -> 0
+After delete from end: 1.5 -> 1
+After delete at position 0: 1
+
+Testing size and empty:
+Current size: 1
+Is empty? False
+
+Testing error handling:
+Error caught successfully: Invalid position
+```
