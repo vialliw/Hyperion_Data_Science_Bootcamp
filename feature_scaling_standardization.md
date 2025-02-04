@@ -125,6 +125,30 @@ print(X_train_scaled_df.describe())
 
 ![Figure 2](https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/feature-scaling-standardization2.png)
 
+```bash
+Original Data Statistics:
+             MedInc      HouseAge      AveRooms
+count  16512.000000  16512.000000  16512.000000
+mean       3.880754     28.608285      5.435235
+std        1.904294     12.602499      2.387375
+min        0.499900      1.000000      0.888889
+25%        2.566700     18.000000      4.452055
+50%        3.545800     29.000000      5.235874
+75%        4.773175     37.000000      6.061037
+max       15.000100     52.000000    141.909091
+
+Scaled Data Statistics:
+             MedInc      HouseAge      AveRooms
+count  1.651200e+04  1.651200e+04  1.651200e+04
+mean  -6.519333e-17 -9.251859e-18 -1.981081e-16
+std    1.000030e+00  1.000030e+00  1.000030e+00
+min   -1.775438e+00 -2.190766e+00 -1.904386e+00
+25%   -6.900689e-01 -8.417859e-01 -4.118373e-01
+50%   -1.758995e-01  3.108328e-02 -8.350905e-02
+75%    4.686502e-01  6.658972e-01  2.621376e-01
+max    5.839268e+00  1.856173e+00  5.716655e+01
+```
+
 The visualizations clearly demonstrate the effect of standardization.  The KDE plots show how the distributions of the features are transformed.  The box plots highlight the change in scale and spread of the data.  Most importantly, the descriptive statistics confirm that the mean of each scaled feature is very close to 0, and the standard deviation is very close to 1.  This makes it much easier for machine learning algorithms to work with the data effectively.  By having features on a similar scale, algorithms are less likely to be biased towards features with larger initial values.
 
 ### Conclusion
