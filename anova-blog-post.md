@@ -1,8 +1,10 @@
-# Understanding ANOVA Test: A Comprehensive Guide with Python
+# Master ANOVA Test: A Comprehensive Guide
 
 ## Introduction
 
 Analysis of Variance (ANOVA) is a powerful statistical method used to compare means across multiple groups. While a t-test can compare means between two groups, ANOVA extends this capability to three or more groups simultaneously. This makes it an invaluable tool in research, data science, and experimental design.
+
+![Master ANOVA Test: A Comprehensive Guide](https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/anova.jpg)
 
 ## Purpose
 
