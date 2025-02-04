@@ -1,5 +1,7 @@
 ## Master Feature Scaling (Standardization) in Machine Learning
 
+![Figure 1](https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/feature-scaling-standardization1.png)
+
 In the world of machine learning, the quality of your data plays a crucial role in the performance of your models.  One important aspect of data preprocessing is feature scaling, which ensures that all features are on a similar scale. This blog post dives deep into one specific type of feature scaling: standardization. We'll explore its purpose, best practices, and provide a step-by-step guide with a real-world dataset, along with visualizations to illustrate the effects.
 
 ### Introduction: Why Feature Scaling Matters
