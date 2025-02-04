@@ -1,8 +1,10 @@
-# Master Linked List: A Comprehensive Guide in Python
+# Master Linked List: A Comprehensive Guide
 
 ## Introduction
 
 A linked list is a fundamental data structure that consists of a sequence of elements, where each element points to the next element in the sequence. Unlike arrays, linked lists don't store elements in contiguous memory locations, making them more flexible for certain operations. This guide will dive deep into implementing and working with linked lists in Python.
+
+[Master Linked List: A Comprehensive Guide in Python](https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/linked_list.jpg)
 
 ## Comparison with Python Lists
 
