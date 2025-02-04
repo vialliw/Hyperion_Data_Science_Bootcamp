@@ -37,5 +37,5 @@ Welcome to my Data Science Bootcamp Portfolio. This repository is a comprehensiv
    12. [[Cheat Sheet] Seaborn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
 5. Documentation
    1. [[Documentation] Pandas](https://pandas.pydata.org/docs/)
-   2. [[Documentation] Matplotlib Documentation](https://matplotlib.org/stable/index.html)
+   2. [[Documentation] Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
    3. [[Documentation] Seaborn Documentation](https://seaborn.pydata.org/tutorial.html)
