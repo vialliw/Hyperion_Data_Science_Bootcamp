@@ -116,6 +116,22 @@ Let's break down how to interpret each part of the analysis:
 
 ## Example Output Interpretation
 
+```bash
+ANOVA Results:
+F-statistic: 119.2645
+p-value: 0.0000
+
+Tukey HSD Results:
+   Multiple Comparison of Means - Tukey HSD, FWER=0.05
+=========================================================
+  group1     group2   meandiff p-adj lower  upper  reject
+---------------------------------------------------------
+    setosa versicolor     0.93   0.0 0.6862 1.1738   True
+    setosa  virginica    1.582   0.0 1.3382 1.8258   True
+versicolor  virginica    0.652   0.0 0.4082 0.8958   True
+---------------------------------------------------------
+```
+
 Using the iris dataset, we typically find:
 - p-value << 0.05, indicating significant differences in sepal length among species
 - F-statistic > 1, suggesting between-group variance exceeds within-group variance
