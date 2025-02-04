@@ -35,10 +35,4 @@ To save time and prevent the need to search repeatedly, I prefer to keep them we
 25. [[Further Reading] The Complete Collection of Data Science Cheat Sheets](https://www.kdnuggets.com/publications/sheets/The_Complete_Collection_of_Data_Science_Cheatsheets_KDnuggets.pdf)
 26. [[Guide] A Newbie's Guide to Contributing Github Like a Pro](https://github.com/vialliw/Tech_Notes/blob/main/A%20Newbie's%20Guide%20to%20Contributing%20Like%20a%20Pro.md)
 
-## Contributing
 
-Feel free to submit issues and enhancement requests! This repository is meant to be a helpful resource for everyone.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
