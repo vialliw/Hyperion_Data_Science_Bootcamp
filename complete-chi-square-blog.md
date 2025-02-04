@@ -3,6 +3,8 @@
 ## Introduction
 The chi-square test is one of the most fundamental and widely used statistical methods in data analysis. It helps us understand relationships between categorical variables and test whether observed data fits our expected patterns. Whether you're analyzing survey responses, medical trial outcomes, or market research data, mastering the chi-square test is essential for any data scientist or researcher.
 
+![Master the Chi-Square Test: A Comprehensive Guide](https://raw.githubusercontent.com/vialliw/Hyperion_Data_Science_Bootcamp/main/image/chi.jpg)
+
 ## Purpose
 The chi-square test serves two main purposes:
 1. **Test of Independence**: Determines whether there is a significant relationship between two categorical variables
