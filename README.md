@@ -10,11 +10,13 @@ Welcome to my Data Science Bootcamp Portfolio. This repository is a comprehensiv
 1. Data Science Skills
    1. [Master Chi-Square Test: A Comprehensive Guide](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/complete-chi-square-blog.md)
    2. [Master ANOVA Test: A Comprehensive Guide](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/anova-blog-post.md)
-   3. [Master Linked List: A Comprehensive Guide](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/linked-list-guide.md)
-   4. [[Tutorial] Data Preprocessing](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/data_preprocessing.ipynb)
-   5. [[Tutorial] Data Cleaning Guide: Working with Free Text Data](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/data-cleaning-markdown.md)
-   6. [[Tutorial] Data Cleaning Tutorial](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/Data%20Cleaning%20Tutorial.ipynb)
-   7. [[Tutorial] Data Visualization](Data_Visualization%20(Basic).md)
+   3. [Master Feature Scaling (Standardization) in Machine Learning](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/feature_scaling_standardization.md)
+   4. [Master Feature Scaling (Normalization) in Machine Learning](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/feature-scaling-normalization.md)
+   5. [Master Linked List: A Comprehensive Guide](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/linked-list-guide.md)
+   6. [[Tutorial] Data Preprocessing](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/data_preprocessing.ipynb)
+   7. [[Tutorial] Data Cleaning Guide: Working with Free Text Data](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/data-cleaning-markdown.md)
+   8. [[Tutorial] Data Cleaning Tutorial](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/Data%20Cleaning%20Tutorial.ipynb)
+   9. [[Tutorial] Data Visualization](Data_Visualization%20(Basic).md)
 2. Guides
    1. [[Guide] Jupyter Notebook Setup Guide and Best Practices](jupyter-setup-guide.md)
    2. [[Guide] A Newbie's Guide to Contributing Github Like a Pro](https://github.com/vialliw/Tech_Notes/blob/main/A%20Newbie's%20Guide%20to%20Contributing%20Like%20a%20Pro.md)
