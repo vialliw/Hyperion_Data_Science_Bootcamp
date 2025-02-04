@@ -8,7 +8,7 @@ Welcome to my Data Science Bootcamp Portfolio. This repository is a comprehensiv
 ## Table of Contents
 
 1. Data Science Skills
-   1. [Master the Chi-Square Test: A Comprehensive Guide](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/complete-chi-square-blog.md)
+   1. [Master Chi-Square Test: A Comprehensive Guide](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/complete-chi-square-blog.md)
    2. [Master ANOVA Test: A Comprehensive Guide](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/anova-blog-post.md)
    3. [[Tutorial] Data Preprocessing](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/data_preprocessing.ipynb)
    4. [[Tutorial] Data Cleaning Guide: Working with Free Text Data](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/data-cleaning-markdown.md)
