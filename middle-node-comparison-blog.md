@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![Finding the Middle Node in a Linked List: A Performance Analysis](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/image/performance.jpg)
+
 Finding the middle node of a linked list is a common algorithmic problem that can be solved in several ways. While the solution might seem straightforward, different approaches can have significant impacts on performance and memory usage. In this blog post, we'll dive deep into four different methods of finding the middle node and analyze their performance characteristics.
 
 ## The Problem Statement
