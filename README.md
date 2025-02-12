@@ -21,7 +21,8 @@ Welcome to my Data Science Bootcamp Portfolio. This repository is a comprehensiv
    11. [[Tutorial] Supervised Learning - Linear Regression Analysis](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/Supervised_Learning_Linear_Regression.ipynb)
 2. Guides
    1. [[Guide] Jupyter Notebook Setup Guide and Best Practices](jupyter-setup-guide.md)
-   2. [[Guide] A Newbie's Guide to Contributing Github Like a Pro](https://github.com/vialliw/Tech_Notes/blob/main/A%20Newbie's%20Guide%20to%20Contributing%20Like%20a%20Pro.md)
+   2. [[Guide] Handling Machine Learning Categorical Data with Python Tutorial](https://www.datacamp.com/tutorial/categorical-data)
+   3. [[Guide] A Newbie's Guide to Contributing Github Like a Pro](https://github.com/vialliw/Tech_Notes/blob/main/A%20Newbie's%20Guide%20to%20Contributing%20Like%20a%20Pro.md)
 3. Knowledge and Concepts
    1. [Feature Scaling](https://www.youtube.com/watch?v=Y7m9MyPxcyQ)
    2. [When to Normalize or Standardize Data](https://www.secoda.co/learn/when-to-normalize-or-standardize-data)
