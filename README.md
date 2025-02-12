@@ -7,8 +7,8 @@ Welcome to my Data Science Bootcamp Portfolio. This repository is a comprehensiv
 <details>
   <summary>1. Data Science Skills</summary>
 
-   1. [Master Chi-Square Test: A Comprehensive Guide](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/complete-chi-square-blog.md)
-   2. [Master ANOVA Test: A Comprehensive Guide](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/anova-blog-post.md)
+   1. [Master ANOVA Test: A Comprehensive Guide](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/anova-blog-post.md)
+   2. [Master Chi-Square Test: A Comprehensive Guide](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/complete-chi-square-blog.md)
    3. [Master Feature Scaling (Standardization) in Machine Learning](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/feature_scaling_standardization.md)
    4. [Master Feature Scaling (Normalization) in Machine Learning](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/feature-scaling-normalization.md)
    5. [Master Linked List: A Comprehensive Guide](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/linked-list-guide.md)
