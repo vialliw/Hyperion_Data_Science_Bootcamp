@@ -18,6 +18,7 @@ Welcome to my Data Science Bootcamp Portfolio. This repository is a comprehensiv
    9. [[Tutorial] Data Cleaning Tutorial](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/Data%20Cleaning%20Tutorial.ipynb)
    10. [[Tutorial] Data Visualization](Data_Visualization%20(Basic).md)
    11. [[Tutorial] Supervised Learning - Linear Regression Analysis](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/Supervised_Learning_Linear_Regression.ipynb)
+   12. [[Tutorial] Supervised Learning - Random Forests](https://github.com/vialliw/Hyperion_Data_Science_Bootcamp/blob/main/random_forest_titantic.ipynb)
 
 </details>
 
