@@ -67,5 +67,6 @@ Welcome to my Data Science Bootcamp Portfolio. This repository is a comprehensiv
    1. [[Documentation] Pandas](https://pandas.pydata.org/docs/)
    2. [[Documentation] Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
    3. [[Documentation] Seaborn Documentation](https://seaborn.pydata.org/tutorial.html)
+   4. [[Documentation] Scikit-Learn Documentation](https://scikit-learn.org/stable/index.html)
 
 </details>
